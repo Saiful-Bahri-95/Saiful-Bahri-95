@@ -14,7 +14,8 @@
 
 ## 👋 About Me
 
-Hi! I'm **Saiful Bahri**, a dedicated Frontend Developer and 2nd-year Computer Science student.  
+Hi! I'm someone who truly enjoys taking on new challenges and exploring unfamiliar territory—especially when it comes to technology.
+I'm naturally curious and love learning about the latest trends, tools, and innovations happening around the world.
 I focus on building clean interfaces, smooth interactions, and elegant code architecture.
 
 ---
