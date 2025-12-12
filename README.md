@@ -31,7 +31,7 @@ I focus on building clean interfaces, smooth interactions, and elegant code arch
 ### Frameworks & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,vscode,git,github,windows,linux,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,bootstrap,vscode,git,github,windows,linux,figma&theme=light" />
   </a>
 </p>
 
