@@ -45,10 +45,10 @@ Hi! I'm someone who truly enjoys taking on new challenges and exploring unfamili
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saiful-Bahri-95&show_icons=true&theme=react&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saiful-Bahri-95&layout=compact&theme=react&hide_border=true" height="160" />
-</p>
+<img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saiful-Bahri-95&show_icons=true&theme=react&hide_border=true" height="160" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saiful-Bahri-95&layout=compact&theme=react&hide_border=true" height="160" />
 
 ---
 
