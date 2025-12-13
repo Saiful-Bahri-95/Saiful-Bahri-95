@@ -15,8 +15,12 @@
 ## 👋 About Me
 
 Hi! I'm someone who truly enjoys taking on new challenges and exploring unfamiliar territory—especially when it comes to technology.
-I'm naturally curious and love learning about the latest trends, tools, and innovations happening around the world.
-I focus on building clean interfaces, smooth interactions, and elegant code architecture.
+<br>*"I focus on building clean interfaces, smooth interactions, and elegant code architecture."*
+
+
+<div align="center">
+  <picture><img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" align="center" style="width: 100%" /><picture>
+</div>
 
 ---
 
@@ -43,7 +47,7 @@ I focus on building clean interfaces, smooth interactions, and elegant code arch
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saiful-Bahri-95&show_icons=true&theme=react&hide_border=true" height="160" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saiful-Bahri-95&layout=compact&theme=react&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saiful-Bahri-95&layout=compact&theme=react&hide_border=true" height="160" />
 </p>
 
 ---
