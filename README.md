@@ -31,9 +31,9 @@ Hi! I'm **Saiful Bahri**, a Computer Science student who truly enjoys taking on 
 - 💬 Ask me about **Java, JavaScript, Flutter, or Frontend Design**
 - 📫 Reach me at **saiful.bahri2004@gmail.com**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="coding gif" width="80%" />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="coding animation" width="100%" />
+</p>
 
 ---
 
