@@ -72,7 +72,7 @@ Hi! I'm **Saiful Bahri**, a Computer Science student who truly enjoys taking on 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful-Bahri-95&layout=compact&theme=react&hide_border=true&langs_count=8" height="170" alt="top languages" />
 </p>
 <p align="right">
-  <img width="40%" src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" />
+  <img width="30%" src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" />
 </p>
 
 ---
