@@ -67,7 +67,6 @@ Hi! I'm **Saiful Bahri**, a Computer Science student who truly enjoys taking on 
 
 ## 📊 GitHub Overview
 
-<img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saiful-Bahri-95&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful-Bahri-95&layout=compact&theme=react&hide_border=true&langs_count=8" height="170" alt="top languages" />
@@ -77,8 +76,8 @@ Hi! I'm **Saiful Bahri**, a Computer Science student who truly enjoys taking on 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saiful-Bahri-95&theme=react&hide_border=true" alt="streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saiful-Bahri-95&theme=react&no-frame=true&column=7&margin-w=10" alt="trophies" />
+<p align="right">
+  <img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif">
 </p>
 
 ---
