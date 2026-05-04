@@ -81,10 +81,10 @@ Hi! I'm **Saiful Bahri**, a Computer Science student who truly enjoys taking on 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 📱 [**Mi-App**](https://github.com/Saiful-Bahri-95/Mi-App) | Android application project | `Java` |
+| 📱 [**Courier App**](https://github.com/Saiful-Bahri-95/Courier_App) | Document delivery management application | `Flutter` `Dart` |
 | 🛍️ [**Store App**](https://github.com/Saiful-Bahri-95/Store_App) | Flutter e-commerce application | `Dart` `Flutter` |
 | 🔧 [**Backend Store**](https://github.com/Saiful-Bahri-95/Backend_Store) | REST API backend for Store App | `JavaScript` `Node.js` |
-| 🌐 [**Portofolio**](https://github.com/Saiful-Bahri-95/Portofolio) | Personal portfolio with animations & clean layouts | `JavaScript` `HTML` `CSS` |
+| 🌐 [**Website PPDT**](https://github.com/Saiful-Bahri-95/ppdt-website) | Community/organization website | `TypeScript` `HTML` `CSS` |
 | 🎨 [**Portfolio v2**](https://github.com/Saiful-Bahri-95/Portfolio_2) | Modern portfolio website redesign | `PHP` `HTML` `CSS` |
 | 🌙 [**Ramadhan App**](https://github.com/Saiful-Bahri-95/ramadhan_app) | Ramadhan companion application | `JavaScript` |
 
